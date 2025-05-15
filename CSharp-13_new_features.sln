@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Span", "C-Sharp-13_new_features\Span.csproj", "{687C1B2D-E6C2-4289-A85F-D59794769251}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "field-Keyword", "field-Keyword\field-Keyword.csproj", "{8AA22CD5-F314-4474-BD8C-98747795872E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{687C1B2D-E6C2-4289-A85F-D59794769251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{687C1B2D-E6C2-4289-A85F-D59794769251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{687C1B2D-E6C2-4289-A85F-D59794769251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{687C1B2D-E6C2-4289-A85F-D59794769251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AA22CD5-F314-4474-BD8C-98747795872E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA22CD5-F314-4474-BD8C-98747795872E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA22CD5-F314-4474-BD8C-98747795872E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA22CD5-F314-4474-BD8C-98747795872E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E5A7ACB-D45B-40F5-A78C-5C4F41F08602}
+	EndGlobalSection
+EndGlobal
